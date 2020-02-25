@@ -1,12 +1,13 @@
 # Daily Log
 
 ## Day 1
-Status:
+Status:DONE
 
 Link:
+https://aigulich.github.io/Puppies/
 
 Lesson Learned: 
-
+Finish the work yesterday ! 
 ## Day 2
 Status:
 
